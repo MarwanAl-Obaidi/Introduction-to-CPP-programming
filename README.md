@@ -29,3 +29,9 @@ Write a program that asks user for amount of dollars and converts them to euros.
 
 ## ex_3_2
 Write a program that asks for the circle radius and calculates the area of the circle based on it. In the end the area is printed on screen. Use the approximate value of 3.142 for π. User is expected to input only integers.
+
+## ex_4_1
+Write a program that asks user for two integers and prints the sum, difference, product and remainder of the two numbers.
+
+## ex_4_2
+Write a program that calculates the hypotenuse of an orthogonal triangle based on the triangle legs inputted by the user. The leg lengths are assumed to be integers and the hypotenuse value is assigned into a double type variable.
