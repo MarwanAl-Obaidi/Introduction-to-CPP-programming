@@ -12,4 +12,6 @@ int main()
     cin >> second_number;
 
     cout << "Sum of the numbers is " << first_number + second_number << "\n";
+
+    return 0;
 }
