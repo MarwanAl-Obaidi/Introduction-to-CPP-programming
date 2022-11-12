@@ -17,3 +17,9 @@ int main()
   cout << "You typed: " << number << endl;
 }
 ```
+
+## ex_2_1
+Write a working C++ program that, when started, prints the text: “Hi everybody!” and a line break on screen. After printing the program shuts down.
+
+## ex_2_2
+Write a program that asks user for two integers, calculates their sum and prints it on screen. After printing the program shuts down.
