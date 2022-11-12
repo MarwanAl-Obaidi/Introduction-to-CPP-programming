@@ -35,3 +35,20 @@ Write a program that asks user for two integers and prints the sum, difference, 
 
 ## ex_4_2
 Write a program that calculates the hypotenuse of an orthogonal triangle based on the triangle legs inputted by the user. The leg lengths are assumed to be integers and the hypotenuse value is assigned into a double type variable.
+
+## ex_5_1
+Write a program that asks user for an integer and checks if the number is even or odd. If the number is even, program prints “Number X is even.” and if it is odd, program prints “Number X is odd.”. X marks the inputted number.
+
+## ex_5_2
+Write a program which asks the user whether they prefer coffee or tea, and how many sugar cubes they put in. The program's output depends on the user's answers:
+
+* Coffee, 0-2 cubes: "Coffee certainly is invigorating!"
+* Coffee, 3+ cubes: "Well, coffee can taste pretty intense..."
+* Tea, 0-2 cubes: "Tea can have a soothing effect!"
+* Tea, 3+ cubes: "Guess you enjoy your tea overly sweet?"
+* Otherwise: "An error occurred in the program!"
+
+The sugar cubes are handled as an integer variable and the drink as a character variable ('c'/'t'). Uppercase can be ignored. This exercise is bugged as it requires 'k' instead of the 'c' as requested.
+
+## ex_5_3
+Enhance the previous calculator program so that the user can choose which operation he wants to perform. The program first asks for the performed calculation. After this the program asks for the integers, performs the calculation and prints the result. Make the choice structure with switch() statement.
