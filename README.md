@@ -52,3 +52,12 @@ The sugar cubes are handled as an integer variable and the drink as a character 
 
 ## ex_5_3
 Enhance the previous calculator program so that the user can choose which operation he wants to perform. The program first asks for the performed calculation. After this the program asks for the integers, performs the calculation and prints the result. Make the choice structure with switch() statement.
+
+## ex_6_1
+Write a program that asks user for an integer n ((n>0) and prints the numbers 1,2,3..n on individual rows. Use for-loop in the program.
+
+## ex_6_2
+Write a program that asks user for an integer n (n>0) and prints the factorial of that number on screen. Example: factorial of n is marked with n!, which means 1*2*3...n.
+
+## ex_6_3
+Write a program that asks for student's exam grades (integers 4-10 inclusive) and prints the average of the given numbers. Integers outside of the 4-10 range should not be included when calculating the average. Program receives numbers until input is finished by inputting a negative number. Finally the program prints the amount of grades and their average.
