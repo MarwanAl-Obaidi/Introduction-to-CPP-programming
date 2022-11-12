@@ -23,3 +23,9 @@ Write a working C++ program that, when started, prints the text: “Hi everybody
 
 ## ex_2_2
 Write a program that asks user for two integers, calculates their sum and prints it on screen. After printing the program shuts down.
+
+## ex_3_1
+Write a program that asks user for amount of dollars and converts them to euros. In the end the program prints the amount of euros on screen. The exchange rate for euros is 0.727802. Use variables of the type double.
+
+## ex_3_2
+Write a program that asks for the circle radius and calculates the area of the circle based on it. In the end the area is printed on screen. Use the approximate value of 3.142 for π. User is expected to input only integers.
