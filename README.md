@@ -64,3 +64,10 @@ Write a program that asks for student's exam grades (integers 4-10 inclusive) an
 
 ## ex_8_1
 Write a program that calculates the amount of work hours in a given time frame and prints the total amount of hours, the average work day length and inputted hours separated by spaces. The program first asks how many days will be inputted (max. 30 days). After this the program proceeds to ask the daily work hours.
+
+## ex_11_1
+Write a program that reads integers from a file and prints their sum on screen. Follow the format of the example print.
+
+Every number is in it's individual row in the file. The sum of numbers is written as the last number in the file. The name of the file is numbers.txt. If the program fails to open the file, it prints “Failed to open file!” on screen. After this the program execution ends.
+
+The numbers that are already in the file when the program is executed, are summed together and the sum is added to the end of the file.
